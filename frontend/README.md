@@ -4,7 +4,8 @@
  
  
 ### Home page
-![1](https://user-images.githubusercontent.com/17312616/65086776-b1beb080-d9d0-11e9-9983-143d61ed8fdc.png)
+![image](https://github.com/manjula1763/NM-LICET-1/assets/126005363/04fb3186-b304-4422-94bc-a1d920182309)
+
 
 
 
