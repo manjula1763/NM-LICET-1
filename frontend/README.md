@@ -10,14 +10,17 @@
 
 
 ### Content Description page
-![2](https://user-images.githubusercontent.com/17312616/65086777-b1beb080-d9d0-11e9-9e2b-af3b7210bdf3.png)
+![image](https://github.com/manjula1763/NM-LICET-1/assets/126005363/a766d856-d02e-4630-9c87-240a7236e832)
+
 
 
 
 ### Ordered List page
-![3](https://user-images.githubusercontent.com/17312616/65086778-b2574700-d9d0-11e9-9377-8e4886f582a8.png)
+![image](https://github.com/manjula1763/NM-LICET-1/assets/126005363/79f1f38d-a2b3-4b8e-8ef4-b55b54c43672)
+
 
 
 
 ### Order confirm page
-![4](https://user-images.githubusercontent.com/17312616/65086779-b2efdd80-d9d0-11e9-95d5-4b1a48eafe04.png)
+![image](https://github.com/manjula1763/NM-LICET-1/assets/126005363/863ffe77-ebff-4f22-b707-82a2d01fc27e)
+
