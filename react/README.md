@@ -1,10 +1,6 @@
-# Shop With Zosh
+# ECOMMERCE Website NM-LICET-01
 
-### website
-https://shopwithzosh.vercel.app/
 
-### server spring boot
-https://github.com/ashok0001/e-commerce-server
 
 
 
